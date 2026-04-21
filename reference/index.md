@@ -1,0 +1,22 @@
+# Package index
+
+## All functions
+
+- [`build_climate_database()`](https://camerasallowed.github.io/HailMary/reference/build_climate_database.md)
+  : Builds Climate SQLite Database from Environment Canada Data
+- [`check_missing_stations()`](https://camerasallowed.github.io/HailMary/reference/check_missing_stations.md)
+  : Checks for Missing Stations
+- [`get_missing_over_time()`](https://camerasallowed.github.io/HailMary/reference/get_missing_over_time.md)
+  : Calculates Missing Data Over Time
+- [`get_missing_ratio()`](https://camerasallowed.github.io/HailMary/reference/get_missing_ratio.md)
+  : Calculates Missing Data Ratios for Selected Variables
+- [`get_observation_ranges()`](https://camerasallowed.github.io/HailMary/reference/get_observation_ranges.md)
+  : Get Observation Time Ranges by Station
+- [`get_repeated_observations()`](https://camerasallowed.github.io/HailMary/reference/get_repeated_observations.md)
+  : Identify Consecutive Repeated Observations
+- [`get_station_file()`](https://camerasallowed.github.io/HailMary/reference/get_station_file.md)
+  : Accesses embedded CSV
+- [`get_time_gaps()`](https://camerasallowed.github.io/HailMary/reference/get_time_gaps.md)
+  : Identifies Missing Hourly Time Gaps
+- [`hello()`](https://camerasallowed.github.io/HailMary/reference/hello.md)
+  : Hello, World!
