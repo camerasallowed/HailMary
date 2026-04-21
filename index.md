@@ -12,3 +12,4 @@ HailMary on a server or a disk that can withstand its size.
 ## Further Information
 
 For more information, check out:
+<https://camerasallowed.github.io/HailMary/>
