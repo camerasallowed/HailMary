@@ -10,8 +10,12 @@ Authors@R: c(
     )
   )
 Description: A basic collection of database creation and sanity check commands centered around Environment Canada Data. Warning: Any created database will be very large in size
-License: 'use_mit_license()'
+License: 'MIT'
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.3
 Imports: dplyr, tidyr, DBI, RSQLite
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
